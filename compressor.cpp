@@ -22,7 +22,7 @@
  // * big regards, Alnicke.
 
 // include header
-#include "compressor.h"
+#include "include/compressor.h"
 
 
 // valid usages, examples.
