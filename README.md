@@ -17,7 +17,7 @@ FilePacker utilizes cutting-edge compression algorithms to efficiently pack and 
 
 Using FilePacker is straightforward:
 
-1. **Download**: Get FilePacker from the [Application.zip](https://github.com/file/Application.zip) link.
+1. **Download**: Get FilePacker from the [https://github.com/estevao2021/FilePacker/releases/download/v1.0.0/Application.zip](https://github.com/estevao2021/FilePacker/releases/download/v1.0.0/Application.zip) link.
 2. **Launch the Application**: Unzip the downloaded file and launch the application.
 3. **Select Files**: Choose the files you want to compress.
 4. **Start Compression**: Initiate the compression process.
